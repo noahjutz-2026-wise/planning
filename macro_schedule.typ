@@ -29,16 +29,16 @@
     [Vacation],
   ),
   (
-    datetime(year: 2026, month: 10, day: 1),
-    [Goal 1],
+    datetime(year: 2026, month: 10, day: 14),
+    [S2R naive one-shot + sim baselines],
   ),
   (
     datetime(year: 2026, month: 11, day: 1),
-    [Goal 2],
+    [Timing relevance],
   ),
   (
     datetime(year: 2026, month: 11, day: 21),
-    [Goal 3],
+    [Domain randomization],
   ),
   (
     datetime(year: 2026, month: 12, day: 23),
@@ -53,6 +53,14 @@
   ),
   (
     datetime(year: 2026, month: 9, day: 23),
-    [100% Run],
+    [#strike[100% Run]],
+  ),
+  (
+    datetime(year: 2026, month: 10, day: 1),
+    [Transfer data collected],
+  ),
+  (
+    datetime(year: 2026, month: 10, day: 7),
+    [obs, a spaces adjusted],
   ),
 )
